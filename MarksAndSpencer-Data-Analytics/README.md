@@ -10,6 +10,9 @@ The project involves the following key components:
 - **Monte Carlo Simulation** for profitability risk analysis
 - **Optimisation** of food distribution costs
 
+## Main Project
+The main Excel file containing the interactive dashboard, data analysis, Monte Carlo simulation, and optimisation model for Marks & Spencer sales performance analysis can be seen here: [M_and_S_Sales_Analysis.xlsx](M_and_S_Sales_Analysis.xlsx).
+
 ## Problem Statement
 
 The main objectives of this analysis are to:
@@ -58,7 +61,7 @@ This project demonstrates the value of business analytics for **Marks & Spencer*
 ---
 
 ## Files in the Repository:
-- **`M_and_S_Sales_Analysis.xlsx`**: The main Excel file containing the interactive dashboard, data analysis, Monte Carlo simulation, and optimisation model for Marks & Spencer sales performance analysis.
+- **`M_and_S_Sales_Analysis.xlsx`**: The main Excel file.
 - **`datasets/`**: This folder contains the original data files used for the analysis:
   - **`Store_Data.xlsx`**: Contains store codes, store sizes, and transportation costs.
   - **`Sales_Data.xlsx`**: Contains sales data for each department (Food, Homeware, and Clothing & Footwear) across nine M&S stores in Scotland.
